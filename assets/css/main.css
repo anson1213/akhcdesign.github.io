@@ -680,6 +680,16 @@ section,
 /*--------------------------------------------------------------
 # Skills Section
 --------------------------------------------------------------*/
+.skills ul {
+  list-style: none;
+  padding: 0;
+  font-size: 21px;
+}
+
+.skills ul li {
+  padding: 5px 0;
+}
+
 .skills .progress {
   height: 60px;
   display: block;
